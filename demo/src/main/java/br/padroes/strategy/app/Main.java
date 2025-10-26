@@ -1,4 +1,4 @@
-package br.padroes.strategy;
+package br.padroes.strategy.app;
 
 import br.padroes.strategy.model.Disciplina;
 import br.padroes.strategy.strategy.Aritmetica;
